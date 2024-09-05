@@ -1,0 +1,92 @@
+E:\Daniel Alvarado\PTC\Login_Farmacia\bin\Debug\Login_Farmacia.exe.config
+E:\Daniel Alvarado\PTC\Login_Farmacia\bin\Debug\Login_Farmacia.exe
+E:\Daniel Alvarado\PTC\Login_Farmacia\bin\Debug\Login_Farmacia.pdb
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.AssemblyReference.cache
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Properties.Resources.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.GenerateResource.cache
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.CoreCompileInputs.cache
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.exe
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.pdb
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Frmlogin.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\bin\Debug\Login_Farmacia.exe.config
+D:\Daniel Alvarado\PTC\Login_Farmacia\bin\Debug\Login_Farmacia.exe
+D:\Daniel Alvarado\PTC\Login_Farmacia\bin\Debug\Login_Farmacia.pdb
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.AssemblyReference.cache
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Frmlogin.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Properties.Resources.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.GenerateResource.cache
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.CoreCompileInputs.cache
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.exe
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.pdb
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmusers.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmusers.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmshowusers.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmshowusers.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarcontra.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmActualizar.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRegistrarse.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarGmail.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarlogin.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarcontraporadmin.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarporPregunta.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Login.FrmRecuperarloginReinicio.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmActualizar.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Login.FrmRecuperarloginReinicio.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarcontraporadmin.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarGmail.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarlogin.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarcontra.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRegistrarse.resources
+E:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarporPregunta.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Proveedor.FrmProveedor.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Proveedor.FrmActualizarPro.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmReinicio.resources
+D:\Daniel Alvarado\PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmActualizarReinicio.resources
+E:\Login_Farmacia\bin\Debug\Login_Farmacia.exe.config
+E:\Login_Farmacia\bin\Debug\Login_Farmacia.exe
+E:\Login_Farmacia\bin\Debug\Login_Farmacia.pdb
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.AssemblyReference.cache
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Proveedor.FrmActualizarPro.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Proveedor.FrmProveedor.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmActualizarReinicio.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmReinicio.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmActualizar.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Frmlogin.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Login.FrmRecuperarloginReinicio.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarcontraporadmin.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarGmail.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarlogin.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarcontra.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRegistrarse.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmshowusers.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmusers.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarporPregunta.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.Properties.Resources.resources
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.GenerateResource.cache
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.CoreCompileInputs.cache
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.exe
+E:\Login_Farmacia\obj\Debug\Login_Farmacia.pdb
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\bin\Debug\Login_Farmacia.exe.config
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\bin\Debug\Login_Farmacia.exe
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\bin\Debug\Login_Farmacia.pdb
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Proveedor.FrmActualizarPro.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Proveedor.FrmProveedor.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmActualizarReinicio.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmReinicio.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmActualizar.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Frmlogin.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Login.FrmRecuperarloginReinicio.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarcontraporadmin.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarGmail.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarlogin.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRecuperarcontra.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.FrmRegistrarse.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmshowusers.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Frmusers.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Formularios.Recuperarcontra.FrmRecuperarporPregunta.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.exe
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Login_Farmacia\obj\Debug\Login_Farmacia.pdb

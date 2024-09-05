@@ -1,0 +1,36 @@
+D:\Daniel Alvarado\PTC\Factura\bin\Debug\Factura.exe.config
+D:\Daniel Alvarado\PTC\Factura\bin\Debug\Factura.exe
+D:\Daniel Alvarado\PTC\Factura\bin\Debug\Factura.pdb
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.FrmFactura.resources
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.Properties.Resources.resources
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.exe
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.pdb
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.Formularios.FrmActualizarFactura.resources
+D:\Daniel Alvarado\PTC\Factura\obj\Debug\Factura.Formularios.FrmAgregarFactura.resources
+E:\Factura\bin\Debug\Factura.exe.config
+E:\Factura\bin\Debug\Factura.exe
+E:\Factura\bin\Debug\Factura.pdb
+E:\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+E:\Factura\obj\Debug\Factura.Formularios.FrmActualizarFactura.resources
+E:\Factura\obj\Debug\Factura.Formularios.FrmAgregarFactura.resources
+E:\Factura\obj\Debug\Factura.FrmFactura.resources
+E:\Factura\obj\Debug\Factura.Properties.Resources.resources
+E:\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+E:\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+E:\Factura\obj\Debug\Factura.exe
+E:\Factura\obj\Debug\Factura.pdb
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\bin\Debug\Factura.exe.config
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\bin\Debug\Factura.exe
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\bin\Debug\Factura.pdb
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.Formularios.FrmActualizarFactura.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.Formularios.FrmAgregarFactura.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.FrmFactura.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.exe
+C:\Users\MINEDUCYT\Documents\Base de datos PTC\Factura\obj\Debug\Factura.pdb
